@@ -7,7 +7,7 @@ Currently done:
 -Implemented error handling for dividing by zero.
 
 TO DOS:
--Implement Calculus Functionality, starting with definite integrals, with plans to add further calculus functionality.
--Update GUI to support the new functionality, with new buttons added.
--Clean up the code, fix old logic.
--Website Implementation using Flask and Google App Engine.
+-Implement Calculus Functionality, starting with definite integrals, with plans to add further calculus functionality.<br />
+-Update GUI to support the new functionality, with new buttons added. <br />
+-Clean up the code, fix old logic. <br />
+-Website Implementation using Flask and Google App Engine. <br />
